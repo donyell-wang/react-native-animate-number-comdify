@@ -1,6 +1,5 @@
 This package is based on [react-native-animate-number](https://github.com/wkh237/react-native-animate-number), while added with a comdify effect. Which looks like below:
 
-
 ![](./demo.gif)
 
 ## usage
