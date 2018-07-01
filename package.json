@@ -1,0 +1,25 @@
+{
+  "name": "react-native-animate-number-comdify",
+  "version": "0.0.1",
+  "description": "react native animate number with comdify effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donyell-wang/react-native-animate-number-comdify.git"
+  },
+  "dependencies": {
+    "react-native-animate-number": "^0.1.2"
+  },
+  "keywords": [
+    "rn"
+  ],
+  "author": "punkipod@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donyell-wang/react-native-animate-number-comdify/issues"
+  },
+  "homepage": "https://github.com/donyell-wang/react-native-animate-number-comdify#readme"
+}
